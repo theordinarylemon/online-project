@@ -114,13 +114,12 @@
         </div>
     </div>
 </section>
-<SnippetVue />
+
 </div>
 </template>
 
  <script>
 import knittingGirl from "../assets/happy-girl-kitting.png"
-import SnippetVue from "../components/Snippet.vue"
 
 export default {
   data(){
@@ -128,10 +127,6 @@ export default {
         knittingGirl
     }
   },
-  
-  components: {
-    SnippetVue
-  }
 
 }
 </script>

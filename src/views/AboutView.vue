@@ -1,18 +1,14 @@
 <template>
   <div>
-    <SnippetVue />
+    <p>On the way...</p>
   </div>
 </template>
 
 <script>
-import SnippetVue from '../components/Snippet.vue'
-
 
 export default {
   name: "AboutVue",
-  components: {
-    SnippetVue
-  }
+ 
 }
 </script>
 
