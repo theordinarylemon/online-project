@@ -15,6 +15,10 @@
     "vue-eslint-parser": "^9.3.1",
     "vue-router": "^4.0.3"
   },
+
+  "engines": {
+  "node": "22.x"
+  },
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.12.16",
@@ -33,9 +37,6 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ],
-  
-  "engines": {
-  "node": "22.x"
-}
+  ]
+
 }
